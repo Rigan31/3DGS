@@ -1,5 +1,6 @@
 # 3DGS - Paper List
 
+A list of papers about gaussian splatting : https://github.com/Lee-JaeWon/2025-Arxiv-Paper-List-Gaussian-Splatting/blob/main/README.md
 ## Paper List
 
 | #   | Date | Title | Link |
