@@ -6,4 +6,4 @@
 |-----|-----------|-----------|-------|
 | 1 | Apr 2025 | GaussTrap: Stealthy Poisoning Attacks on 3D Gaussian Splatting for Targeted Scene Confusion | https://arxiv.org/pdf/2504.20829 |
 | 2 | Oct 2024 | Poison-splat: Computation Cost Attack on 3D Gaussian Splatting | https://arxiv.org/pdf/2410.08190 |
-| 2 | 2020 | 3D Gaussian Splatting for Real-Time Radiance Field Rendering | https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/ |
+| 2 | Aug 2023 | 3D Gaussian Splatting for Real-Time Radiance Field Rendering | https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/ |
