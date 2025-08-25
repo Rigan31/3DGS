@@ -17,4 +17,4 @@ A list of papers about gaussian splatting : https://github.com/Lee-JaeWon/2025-A
 |-----|-----------|-----------|-------|------|
 | 1 | June 2025 | PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting | [Link](https://openaccess.thecvf.com/content/CVPR2025/html/Hanson_PUP_3D-GS_Principled_Uncertainty_Pruning_for_3D_Gaussian_Splatting_CVPR_2025_paper.html) | CVPR |
 | 2 | 2024 | LP-3DGS: Learning to Prune 3D Gaussian Splatting | [Link](https://proceedings.neurips.cc/paper_files/paper/2024/hash/dd51dbce305433cd60910dc5b0147be4-Abstract-Conference.html) | NeurIPS |
-| 3 | 2025 | Unveiling the Pruning Risks on Privacy Vulnerabilities of Deep Neural Networks | [Link](https://proceedings.neurips.cc/paper_files/paper/2024/hash/dd51dbce305433cd60910dc5b0147be4-Abstract-Conference.html) | Conferences >ICASSP |
+| 3 | 2025 | Unveiling the Pruning Risks on Privacy Vulnerabilities of Deep Neural Networks | [Link](https://ieeexplore.ieee.org/document/10889113) | ICASSP |
