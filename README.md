@@ -11,6 +11,9 @@ A list of papers about gaussian splatting : https://github.com/Lee-JaeWon/2025-A
 | 4 | May 2024 | Compact 3D Scene Representation via Self-Organizing Gaussian Grids | [Link](https://fraunhoferhhi.github.io/Self-Organizing-Gaussians/) |
 | 5 | Mar 2020 | NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis | [Link](https://www.matthewtancik.com/nerf) |
 | 6 | June 2025 | FlexGS: Train Once, Deploy Everywhere with Many-in-One Flexible 3D Gaussian Splatting | [Link](https://arxiv.org/abs/2506.04174) | CVPR |
+| 7 | Mar 2025 | All That Glitters Is Not Gold: Key-Secured 3D Secrets within 3D Gaussian Splatting | [Link](https://arxiv.org/abs/2503.07191) |
+| 8 | May 2025 | GS-Hider: Hiding Messages into 3D Gaussian Splatting | [Link](https://arxiv.org/abs/2405.15118) |
+| 9 | Mar 2025 | SecureGS: Boosting the Security and Fidelity of 3D Gaussian Splatting Steganography | [Link](https://arxiv.org/abs/2503.06118) | ICLR |
 
 ### Pruning technique
 | #   | Date | Title | Link | Venue |
